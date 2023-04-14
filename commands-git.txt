@@ -1,4 +1,5 @@
 git clone
 git add .
 git commit - m
-git puch
+git push
+git pull
